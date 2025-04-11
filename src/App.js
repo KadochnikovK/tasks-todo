@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import AddForm from "./components/AddForm";
 import TodoList from "./components/TodoList";
 import React from 'react';
-import TodoProvider from "./components/context/TodoContextProvider";
+import TodoProvider from "./context/TodoContextProvider";
 
 function App() {
 
